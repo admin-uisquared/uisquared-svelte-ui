@@ -12,11 +12,22 @@ UiSquared is a modern and versatile UI library for Svelte, designed to make buil
 
 ## Installation
 
-To install UiSquared in your Svelte project, run:
+1. To install UiSquared in your Svelte project, run:
 
 ```bash
 npm install @uisquared/svelte-ui
 ```
+
+2. UiSquared uses Tailwind CSS for styling. If you haven't already installed Tailwind CSS, you can do so by running the following commands:
+
+```bash
+# Install Tailwind CSS and its dependencies
+npm install tailwindcss postcss autoprefixer
+
+# Create a default Tailwind CSS configuration file
+npx tailwindcss init -p
+```
+For detailed configuration and usage for Sveltekit, refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs/guides/sveltekit).
 
 ## License
 
