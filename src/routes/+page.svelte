@@ -1,1 +1,1 @@
-<h1>This is UiSquared UI Library</h1>
+<h1 class="text-3xl font-bold underline">This is UiSquared UI Library</h1>
