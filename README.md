@@ -2,6 +2,8 @@
 
 UiSquared is a modern and versatile UI library for Svelte, designed to make building beautiful and responsive user interfaces a breeze.
 
+<br />
+
 ## Features
 
 - 🚀 **Easy to Use**: Simple and intuitive components that integrate seamlessly into your Svelte projects.
@@ -9,6 +11,8 @@ UiSquared is a modern and versatile UI library for Svelte, designed to make buil
 - 📦 **Lightweight**: Optimized for performance without compromising functionality.
 - 🌐 **Responsive**: Components adapt gracefully to different screen sizes and devices.
 - 🛠️ **Developer-Friendly**: Well-documented and easy-to-understand API.
+
+<br />
 
 ## Installation
 
@@ -29,9 +33,14 @@ npx tailwindcss init -p
 ```
 For detailed configuration and usage for Sveltekit, refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs/guides/sveltekit).
 
+
+<br />
+
 ## License
 
 UiSquared is licensed under the MIT License.
+
+<br />
 
 ## Acknowledgments
 
